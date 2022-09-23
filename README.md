@@ -1,2 +1,3 @@
-# hello change simple v2-----p2
+# hello
+add line 2 in person 2
 simple hello world programs
